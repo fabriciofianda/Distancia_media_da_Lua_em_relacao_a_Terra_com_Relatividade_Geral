@@ -10,7 +10,6 @@ Além disso, o modelo não leva em conta outras forças, como as marés oceânic
 
 No entanto, no modelo utilizado no código, a distância média entre a Terra e a Lua diminui ao longo do tempo, o que pode parecer contrário ao comportamento real observado. Isso ocorre porque o modelo assume uma distância média inicial entre a Terra e a Lua de 384.400 km, que é maior do que a distância média atual de cerca de 385.000 km. Assim, como a distância inicial no modelo é maior do que a distância real, a distância média diminui ao longo do tempo até chegar à distância real.
 
-Portanto, é importante lembrar que o modelo utilizado no código é uma simplificação da realidade e não deve ser usado para prever o comportamento preciso da órbita da Lua.
 
     program DistanciaLuaTerra;
 
